@@ -1,6 +1,5 @@
 ## Description
-Train CNN models and extract weights and biases.
-
+Train CNN models and extract weights and biases.  
 DNA computer use these parameters to do the logical operation
 
 ## Instrcution for use 
