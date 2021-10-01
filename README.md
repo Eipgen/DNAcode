@@ -2,12 +2,12 @@
 
 the code is about the DNA computer use the single-layer CNN model parameters to do the logical operation
 
-##Features
+#Features
 the single-layer CNN
 the manual-activation of the softmax 
 
 
-##Guide
+#Guide
 you can build the environment with `conda`
 
 ```sh
