@@ -8,7 +8,8 @@ Xiewei Xiong, Tong Zhu, Yun Zhu, Mengyao Cao, Jing Xiao, Li Li, Fei Wang, Chunha
 It contains all the codes and data used in this work. 
 The raw data can be found at https://github.com/tongzhugroup/dna_comput_rawdata.
 
-## Instrcution for use 
+## System requirements
+
 Before your run the code you need to install anaconda[https://docs.anaconda.com/anaconda/install/index.html], and then build the environment with `conda`
 
 ```sh
