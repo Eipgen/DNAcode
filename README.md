@@ -1,5 +1,19 @@
 # DNAcode
-some codes to make the DNAcoding
+
 the code is about the DNA computer use the single-layer CNN model parameters to do the logical operation
-the single layer CNN use keras training
+
+##Features
+the single-layer CNN
+the manual-activation of the softmax 
+
+
+##Guide
+you can build the environment with `conda`
+
+```sh
+conda env create -f environment.yaml
+```
+
+
+
 
