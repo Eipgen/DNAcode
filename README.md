@@ -3,8 +3,8 @@
 the code is about the DNA computer use the single-layer CNN model parameters to do the logical operation
 
 ## Features
-the single-layer CNN
-the manual-activation of the softmax 
+  single-layer CNN
+  manual-activation of the softmax
 
 
 ## Guide
