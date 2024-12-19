@@ -37,8 +37,10 @@ conda activate dnacode
 
 All expected results are listed in the jupyter-notebook and can be reproduced directly. The training process can be completed within 1 hour on a single Linux computer. 
 
+## Results
+The tsne grpah for classification of Greek alphabet.
 
-
+![TSNE](./plot_with_tsne/greek_tsne.png)
 
 
 
