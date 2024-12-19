@@ -40,7 +40,7 @@ All expected results are listed in the jupyter-notebook and can be reproduced di
 ## Results
 The tsne grpah for classification of Greek alphabet.
 
-![TSNE](./plot_with_tsne/greek_tsne.png=600x600)
+![TSNE](./plot_with_tsne/greek_tsne.png =600x600)
 
 
 
